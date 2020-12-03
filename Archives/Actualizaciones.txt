@@ -1,0 +1,4 @@
+25-11-20: Página web terminada
+26-11-20: Acerca de Nosotros terminada
+26-11-20: Imágenes tardan menos en cargarse por primera vez
+27-11-20: Barra de Navagación mejorada
