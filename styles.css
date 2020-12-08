@@ -1,10 +1,92 @@
-.center {
+  .maincontainer {
+    background-image: url(Images/General/Container.png);
+    width: auto;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+
+  .container {
+    background-color:  #37609188;
+    width: auto;
+    max-width: 1300px;
+    margin: 0 auto;
+    border-radius: 10px;
+  }
+
+  .title {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 48px;
+    background-color: #37AFBF;
+    position: relative;
+    color: #376091;
+    top: 20px;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-width: 400px;
+    border-radius: 30px;
+  }
+
+  .header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px; 
+    background-color: #5E55A1; 
+    position: sticky; 
+    top: 10px; 
+    z-index: 1; 
+    text-align: center; 
+    color: #7CA1CE; 
+    border-radius: 5px;
+  }
+
+  .subtitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 30px; 
+    color: #7CA1CE
+  }
+
+  .subsubtitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 26px; 
+    color: #7CA1CE
+  }
+
+  .text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 24px; 
+    color: #7CA1CE
+  }
+  .link {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 24px; 
+    background-color: #5E55A1;
+    text-align: center;
+    position: relative;
+    border-radius: 10px;
+    color: #7CA1CE; 
+  }
+
+  .hr {
+    border-color: #5E55A1;
+  }
+
+  .centeredtext {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 12px; 
+    color: #7CA1CE; 
+    text-align: center;
+  }
+
+  .image {
+    position: relative; 
+    left: 10%; 
+    border-color: #376091; 
+    border-style: double; 
+    border-width: 20px;
+  }
+
+  .centeredimage {
     display: block;
     margin-left: auto;
     margin-right: auto;
-  }
-
-  .contenedor {
-    background-color: cyan;
-    width: auto;
   }
