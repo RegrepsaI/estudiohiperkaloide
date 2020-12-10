@@ -89,3 +89,9 @@
     margin-left: auto;
     margin-right: auto;
   }
+
+
+  a:link {color: #7CA1CE}
+  a:visited {color: #7CA1CE}
+  a:hover {color: #557497}
+  a:active {color: #557497}
