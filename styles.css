@@ -96,3 +96,4 @@
   a:visited {color: #5d91ce}
   a:hover {color: #2967ad}
   a:active {color: #2967ad}
+  a {text-decoration: none;}
