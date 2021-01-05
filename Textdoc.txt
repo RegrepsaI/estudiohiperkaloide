@@ -1,8 +1,9 @@
-=Línea 1:;
-	hysebuzobvhyuzk;
-	bzudify;
-	fzdvbukdaVBFCKYaz;
-=Línea 2:;
-	bnzhudio;
-	bdhui;
-	banhuDKZl;
+[
+["Nombre de Pintura:",
+	"Descripción",
+	"Tamaño",
+	"Images/(Nombre de la pintura)",
+,[Línea 2:",
+	"bnzhudio",
+	"bdhui",
+	"banhuDKZl",
